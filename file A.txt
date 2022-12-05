@@ -1,2 +1,3 @@
 THis is File A
 This is change to the file
+New changes made
